@@ -1,7 +1,7 @@
 # Pet-Feeder-Arduino
 A arduino pet feeder using c++
 
-![Project Image](https://csg.tinkercad.com/things/5ObVhtPXsZ9/t725.png?rev=1639231926448000000&s=&v=1&type=circuits)
+![Project Image](image.png)
 
 # Link to Tinkercad Scheme
-[Click here](image.png)
+[Click here](https://www.tinkercad.com/things/5ObVhtPXsZ9-pet-feeder-v2)
